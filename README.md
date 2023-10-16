@@ -44,6 +44,7 @@ npm install
 Write your solution .
 
 Then run the following command
+<!-- //   npx mocha ./test/QuadraticEquation.js -->
 
 ```
 yarn test ./test/<TestName>.js
